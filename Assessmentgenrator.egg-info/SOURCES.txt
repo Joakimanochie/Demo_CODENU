@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Assessmentgenerator/__init__.py
+Assessmentgenerator/logger.py
+Assessmentgenerator/utils.py
+Assessmentgenrator.egg-info/PKG-INFO
+Assessmentgenrator.egg-info/SOURCES.txt
+Assessmentgenrator.egg-info/dependency_links.txt
+Assessmentgenrator.egg-info/top_level.txt
